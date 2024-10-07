@@ -1,7 +1,7 @@
 ## Hi there 👋 , I am Uday Nauhbar
 
 
-https://holopin.me/uday061)](https://holopin.io/@uday061
+holopin.io/@uday061
 <!--
 **Uday061/Uday061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
